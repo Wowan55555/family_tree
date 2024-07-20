@@ -4,47 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f9c2aec-94b1-4aa8-8286-8983a44cb36f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/family_tree.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/family_worries/FamilyTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/family_worries/FamilyTreeIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/family_worries/FamilyTreeRelationshipManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/family_worries/FamilyTreeSiblingsManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/family_worries/FamilyTreeSpouseManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/family_worries/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/human/Gender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/human/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/human/HumanBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/human/HumanInformationFormatter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/human/HumanRelationshipManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/human/HumansComparatorByBirthDate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/human/HumansComparatorById.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/human/HumansComparatorByName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/service/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/writer/FileHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/writer/Writer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/presenter/Presenter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/view/AddHuman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/view/Command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/view/ConsoleUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/view/FindByName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/view/FinishWork.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/view/GetHumanListInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/view/InputHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/view/MenuHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/view/RemoveHuman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/view/SortByBirthDate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/view/SortById.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/view/SortByName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/view/View.java" afterDir="false" />
-    </list>
+    <list default="true" id="6f9c2aec-94b1-4aa8-8286-8983a44cb36f" name="Changes" comment="Работаем над проектом." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -116,6 +76,19 @@
       <option name="presentableId" value="Default" />
       <updated>1721400253531</updated>
     </task>
+    <task id="LOCAL-00001" summary="Работаем над проектом.">
+      <option name="closed" value="true" />
+      <created>1721462064509</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1721462064509</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Работаем над проектом." />
+    <option name="LAST_COMMIT_MESSAGE" value="Работаем над проектом." />
   </component>
 </project>
