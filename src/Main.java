@@ -6,5 +6,10 @@ public class Main {
         View view;
         view = new ConsoleUI();
         view.startWork();
+
+
+
     }
 }
+
+
