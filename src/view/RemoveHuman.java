@@ -2,7 +2,7 @@ package view;
 
 public class RemoveHuman extends Command {
     public RemoveHuman(ConsoleUI consoleUI) {
-        super("Удалить человека.", consoleUI);
+        super("Устранить человека.", consoleUI);
     }
 
     @Override

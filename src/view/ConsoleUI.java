@@ -32,7 +32,7 @@ public class ConsoleUI implements View {
     }
 
     private void greetings() {
-        System.out.println("Привет , рад видеть Вас в меню:\nВыбирайте нужный пункт");
+        System.out.println("Привет(КУ!!!) , рад видеть Вас в меню:\nВыбирайте нужный пункт");
     }
 
     private void selectItemFromMenu() {
@@ -43,7 +43,7 @@ public class ConsoleUI implements View {
                 int choice = Integer.parseInt(choiceStr);
                 menuHandler.execute(choice);
             } else {
-                System.out.println("Введено неверно\nПопробуйте еще раз введите номер из меню: от 1 до " + menuHandler.size());
+                System.out.println("Введено неверно\nНе спешите, еще раз введите номер из меню: от 1 до " + menuHandler.size());
             }
         }
     }
@@ -72,10 +72,10 @@ public class ConsoleUI implements View {
     }
 
     public void addHuman() {
-        System.out.println("Укажите имя человека:");
+        System.out.println("  Укажите пожалуйста имя человека:");
         String name = inputHandler.getInput();
 
-        System.out.println("Укажите пол человека м/ж:");
+        System.out.println("Будте добры  Укажите пол человека м/ж:");
         String genderStr = inputHandler.getGenderInput();
 
         System.out.println("Укажите дату рождения: ДД ММ Г:");
@@ -93,7 +93,7 @@ public class ConsoleUI implements View {
     private void printFoundHumans(String name) {
         String foundHumans = presenter.findByName(name);
         if (foundHumans.isEmpty()) {
-            System.out.println("Попробуйте еще раз ");
+            System.out.println("Блин еще раз ... еще раз ");
         } else {
             System.out.println("Выведен список людей(найденных)");
             System.out.println(foundHumans);

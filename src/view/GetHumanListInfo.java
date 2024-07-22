@@ -4,7 +4,7 @@ package view;
 public class GetHumanListInfo extends Command {
 
     public GetHumanListInfo(ConsoleUI consoleUI) {
-        super("Получить список людей.", consoleUI);
+        super("Хочешь? Предоставим  список людей.", consoleUI);
     }
 
 

@@ -3,7 +3,7 @@ package view;
 public class SortByBirthDate extends Command {
 
     public SortByBirthDate(ConsoleUI consoleUI) {
-        super("Отсортировать людей по возрасту.", consoleUI);
+        super("пройти отбор .... людей по возрасту.", consoleUI);
     }
 
     @Override

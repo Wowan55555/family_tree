@@ -3,7 +3,7 @@ package view;
 public class SortById extends Command {
 
     public SortById(ConsoleUI consoleUI) {
-        super("Отсортировать людей по ID.", consoleUI);
+        super(" упорядочить людей по ID.", consoleUI);
     }
 
     @Override

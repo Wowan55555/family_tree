@@ -6,7 +6,14 @@
   <component name="ChangeListManager">
     <list default="true" id="6f9c2aec-94b1-4aa8-8286-8983a44cb36f" name="Changes" comment="Добавили изменения в проект.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/writer/FileHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/writer/FileHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/AddHuman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/AddHuman.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/ConsoleUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/ConsoleUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/GetHumanListInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/GetHumanListInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/InputHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/InputHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/RemoveHuman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/RemoveHuman.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/SortByBirthDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/SortByBirthDate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/SortById.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/SortById.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/SortByName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/SortByName.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

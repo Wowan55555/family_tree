@@ -3,7 +3,7 @@ package view;
 public class SortByName extends Command {
 
     public SortByName(ConsoleUI consoleUI) {
-        super("Отсортировать людей по имени.", consoleUI);
+        super("Упорядочить людей по имени.", consoleUI);
     }
 
 

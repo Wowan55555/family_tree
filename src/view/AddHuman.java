@@ -3,7 +3,7 @@ package view;
 public class AddHuman extends Command {
 
     public AddHuman(ConsoleUI consoleUI) {
-        super("Добавить человека в дерево.", consoleUI);
+        super("Добавление человека в дерево.", consoleUI);
     }
 
     @Override

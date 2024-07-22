@@ -24,7 +24,8 @@ public class InputHandler {
             } else if (genderStr.equalsIgnoreCase("ж")) {
                 return "ж";
             } else {
-                System.out.println("Введен неправильный пол, попробуйте заново (м/ж):");
+                System.out.println("Введен неправильный пол," +
+                        "Олух попробуй снова(м/ж):");
             }
         }
     }
@@ -40,12 +41,14 @@ public class InputHandler {
 
                 LocalDate birthDate = LocalDate.of(year, month, day);
                 if (birthDate.isAfter(LocalDate.now())) {
-                    System.out.println("Дата рождения не может быть больше текущей даты. Пожалуйста, введите корректную дату:");
+                    System.out.println("Дата рождения не может быть больше текущей даты." +
+                            " Пожалуйста, введите корректную дату:");
                 } else {
                     return birthDate;
                 }
             } catch (DateTimeException | ArrayIndexOutOfBoundsException | NumberFormatException e) {
-                System.out.println("Неверный формат даты рождения. Пожалуйста, введите дату в формате ДД ММ ГГГГ:");
+                System.out.println("Неверный формат даты рождения.Олень  Пожалуйста," +
+                        " введи дату в формате ДД ММ ГГГГ:");
             }
         }
     }
