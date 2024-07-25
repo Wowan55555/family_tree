@@ -1,6 +1,7 @@
 package view;
 
 import presenter.Presenter;
+import view.commands.InputHandler;
 
 import java.time.LocalDate;
 import java.util.List;
@@ -25,10 +26,11 @@ public class ConsoleUI implements View {
         presenter.readTree();
         selectItemFromMenu();
     }
+    // Исправили замечание.
 
     @Override
     public void printAnswer(String answer) {
-
+        System.out.println(answer);
     }
 
     private void greetings() {
@@ -113,4 +115,5 @@ public class ConsoleUI implements View {
     private void removeHumanById(String name, List<Integer> foundHumansId) {
         return;
     }
+
 }

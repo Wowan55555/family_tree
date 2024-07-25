@@ -1,5 +1,6 @@
 package view;
 
+
 public abstract class Command {
     private final String description;
     private ConsoleUI consoleUI;

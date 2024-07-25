@@ -1,5 +1,6 @@
 package view;
 
+
 public class AddHuman extends Command {
 
     public AddHuman(ConsoleUI consoleUI) {

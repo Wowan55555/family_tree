@@ -14,8 +14,9 @@ import java.util.List;
 
 public class Service {
     private FamilyTree<Human> familyTree;
+    // Исправили замечание
     private final HumanBuilder humanBuilder = new HumanBuilder();
-    private final Writer fileHandler = (Writer) new FileHandler();
+    private final Writer fileHandler = new FileHandler();
 
     public Service() {
         familyTree = new FamilyTree<>();

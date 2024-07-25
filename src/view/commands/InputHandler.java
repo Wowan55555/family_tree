@@ -1,4 +1,4 @@
-package view;
+package view.commands;
 
 import java.time.DateTimeException;
 import java.time.LocalDate;
@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.Scanner;
 
 public class InputHandler {
-    private Scanner scanner;
+    private final Scanner scanner;
 
     public InputHandler(Scanner scanner) {
         this.scanner = scanner;

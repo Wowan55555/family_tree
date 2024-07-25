@@ -1,5 +1,7 @@
 package view;
 
+
+
 public class SortByName extends Command {
 
     public SortByName(ConsoleUI consoleUI) {

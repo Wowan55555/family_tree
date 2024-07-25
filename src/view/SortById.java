@@ -1,5 +1,7 @@
 package view;
 
+
+
 public class SortById extends Command {
 
     public SortById(ConsoleUI consoleUI) {

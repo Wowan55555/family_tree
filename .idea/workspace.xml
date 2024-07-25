@@ -6,10 +6,18 @@
   <component name="ChangeListManager">
     <list default="true" id="6f9c2aec-94b1-4aa8-8286-8983a44cb36f" name="Changes" comment="Добавили изменения в проект.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HumanI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/human/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/human/Human.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/service/Service.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/service/Service.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/view/AddHuman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/AddHuman.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/Command.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/Command.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/view/ConsoleUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/ConsoleUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/FindByName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/FindByName.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/FinishWork.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/FinishWork.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/view/GetHumanListInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/GetHumanListInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/view/InputHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/InputHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/InputHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/commands/InputHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/MenuHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/MenuHandler.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/view/RemoveHuman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/RemoveHuman.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/view/SortByBirthDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/SortByBirthDate.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/view/SortById.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/SortById.java" afterDir="false" />

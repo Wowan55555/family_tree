@@ -30,7 +30,8 @@ public class Human implements TreeNode<Human>, javax.swing.tree.TreeNode {
     }
 
     public Human(String name, Gender gender, LocalDate birthDate) {
-        this(name, gender, birthDate, null, null, null);
+        this(name, gender,
+                birthDate, null, null, null);
     }
 
     public Human() {

@@ -1,6 +1,8 @@
 package view;
 
 
+
+
 public class GetHumanListInfo extends Command {
 
     public GetHumanListInfo(ConsoleUI consoleUI) {
