@@ -1,7 +1,7 @@
 package view;
 
 
-
+import view.commands.Command;
 
 public class GetHumanListInfo extends Command {
 

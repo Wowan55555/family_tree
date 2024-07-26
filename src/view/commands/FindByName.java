@@ -1,7 +1,7 @@
-package view;
+package view.commands;
 
 
-
+import view.ConsoleUI;
 
 public class FindByName extends Command {
     public FindByName(ConsoleUI consoleUI) {

@@ -1,5 +1,7 @@
-package view;
+package view.commands;
 
+
+import view.ConsoleUI;
 
 public abstract class Command {
     private final String description;
@@ -10,7 +12,7 @@ public abstract class Command {
         this.consoleUI = consoleUI;
     }
 
-    ConsoleUI getConsoleUI() {
+    protected ConsoleUI getConsoleUI() {
         return consoleUI;
     }
 

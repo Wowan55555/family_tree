@@ -1,6 +1,7 @@
-package view;
+package view.commands;
 
 
+import view.ConsoleUI;
 
 public class RemoveHuman extends Command {
     public RemoveHuman(ConsoleUI consoleUI) {
